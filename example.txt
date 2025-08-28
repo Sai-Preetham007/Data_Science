@@ -1,0 +1,5 @@
+Hello, World!
+The previous content is OverWritten.
+
+This is an append mode
+The previous content don't get OverWritten.
